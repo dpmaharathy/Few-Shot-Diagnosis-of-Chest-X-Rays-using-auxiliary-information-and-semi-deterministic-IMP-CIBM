@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Consolidation,0.3504,0.0104,0.3572,0.0147,0.3537,0.0117,0.5185,0.0116
+Pleural Effusion,0.3683,0.0108,0.3923,0.0139,0.3799,0.0114,0.5443,0.0092
+Pneumothorax,0.3988,0.0106,0.3651,0.0176,0.3811,0.0127,0.5692,0.0123

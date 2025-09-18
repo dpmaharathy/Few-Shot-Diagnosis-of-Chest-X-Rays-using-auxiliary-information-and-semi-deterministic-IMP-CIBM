@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Atelectasis,0.3557,0.0114,0.3601,0.0182,0.3578,0.0138,0.5238,0.0109
+Edema,0.4817,0.0193,0.497,0.0337,0.489,0.0251,0.6795,0.0202
+Enlarged Cardiomediastinum,0.4417,0.0098,0.4226,0.0293,0.4315,0.0182,0.6252,0.0131

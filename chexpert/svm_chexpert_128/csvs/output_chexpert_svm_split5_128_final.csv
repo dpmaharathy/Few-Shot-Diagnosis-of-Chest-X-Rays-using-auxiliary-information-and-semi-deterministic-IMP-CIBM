@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Pleural Other,0.4,0.02,0.37,0.02,0.38,0.02,0.44,0.01
+Pneumonia,0.34,0.01,0.33,0.02,0.34,0.01,0.49,0.01
+Support Devices,0.41,0.01,0.45,0.02,0.43,0.01,0.42,0.01

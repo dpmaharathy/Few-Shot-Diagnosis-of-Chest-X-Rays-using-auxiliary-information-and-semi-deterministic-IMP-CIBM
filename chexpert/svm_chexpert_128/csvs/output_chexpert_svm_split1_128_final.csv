@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Cardiomegaly,0.39,0.01,0.46,0.02,0.42,0.01,0.45,0.01
+Lung Opacity,0.26,0.01,0.21,0.02,0.23,0.01,0.57,0.01
+No Finding,0.26,0.01,0.26,0.01,0.26,0.01,0.58,0.01

@@ -1,0 +1,1012 @@
+Time to load train arrays
+(array(['Cardiomegaly', 'Fracture', 'Lung Lesion', 'Lung Opacity',
+       'No Finding', 'Pleural Other', 'Pneumonia', 'Support Devices'],
+      dtype='<U15'), array([1539, 1377,  782, 7000, 7000,  291,  423, 5303]))
+Time to load val arrays
+(array(['Consolidation', 'Pleural Effusion', 'Pneumothorax'], dtype='<U16'), array([1034, 3572, 2274]))
+Time to load test arrays
+(array(['Atelectasis', 'Edema', 'Enlarged Cardiomediastinum'], dtype='<U26'), array([1716, 3080, 1028]))
+['Atelectasis', 'Atelectasis', 'Atelectasis', 'Atelectasis', 'Atelectasis', 'Edema', 'Edema', 'Edema', 'Edema', 'Edema', 'Enlarged Cardiomediastinum', 'Enlarged Cardiomediastinum', 'Enlarged Cardiomediastinum', 'Enlarged Cardiomediastinum', 'Enlarged Cardiomediastinum']
+Model:  1
+Epoch 1 Train -- Loss: 27.2224 Acc: 0.1423
+Val Results -- Loss: 6.7978 Acc: 0.3520
+
+
+Epoch 2 Train -- Loss: 6.5004 Acc: 0.1708
+Prev Val Results -- Loss: 6.7978 Acc: 0.3520
+1.028542335510254
+Val Results -- Loss: 5.7693 Acc: 0.3489
+
+
+Epoch 3 Train -- Loss: 5.2956 Acc: 0.1876
+Prev Val Results -- Loss: 5.7693 Acc: 0.3489
+1.1709545402526853
+Val Results -- Loss: 4.5983 Acc: 0.3720
+
+
+Epoch 4 Train -- Loss: 4.9787 Acc: 0.1959
+Prev Val Results -- Loss: 4.5983 Acc: 0.3720
+0.43767996120452857
+Val Results -- Loss: 4.1607 Acc: 0.3673
+
+
+Epoch 5 Train -- Loss: 4.8105 Acc: 0.2103
+Prev Val Results -- Loss: 4.1607 Acc: 0.3673
+0.8482978019714356
+Val Results -- Loss: 5.0090 Acc: 0.3712
+
+
+Epoch 6 Train -- Loss: 4.7434 Acc: 0.2171
+Prev Val Results -- Loss: 5.0090 Acc: 0.3712
+0.6713701744079588
+Val Results -- Loss: 4.3376 Acc: 0.3652
+
+
+Epoch 7 Train -- Loss: 4.6724 Acc: 0.2248
+Prev Val Results -- Loss: 4.3376 Acc: 0.3652
+0.2097052950859064
+Val Results -- Loss: 4.5473 Acc: 0.3635
+
+
+Epoch 8 Train -- Loss: 4.5899 Acc: 0.2266
+Prev Val Results -- Loss: 4.5473 Acc: 0.3635
+0.06371605253219581
+Val Results -- Loss: 4.4836 Acc: 0.3759
+
+
+Epoch 9 Train -- Loss: 4.5728 Acc: 0.2281
+Prev Val Results -- Loss: 4.4836 Acc: 0.3759
+0.06747487211227465
+Val Results -- Loss: 4.4161 Acc: 0.3695
+
+
+Epoch 10 Train -- Loss: 4.6032 Acc: 0.2334
+Prev Val Results -- Loss: 4.4161 Acc: 0.3695
+0.0777838311195369
+Val Results -- Loss: 4.3383 Acc: 0.3656
+
+
+Epoch 11 Train -- Loss: 4.5231 Acc: 0.2298
+Prev Val Results -- Loss: 4.3383 Acc: 0.3656
+0.014810800075530928
+Val Results -- Loss: 4.3235 Acc: 0.3716
+
+
+Epoch 12 Train -- Loss: 4.5399 Acc: 0.2313
+Prev Val Results -- Loss: 4.3235 Acc: 0.3716
+0.033562349319457674
+Val Results -- Loss: 4.3571 Acc: 0.3728
+
+
+Epoch 13 Train -- Loss: 4.5399 Acc: 0.2342
+Prev Val Results -- Loss: 4.3571 Acc: 0.3728
+0.03518000221252482
+Val Results -- Loss: 4.3922 Acc: 0.3699
+
+
+Epoch 14 Train -- Loss: 4.5170 Acc: 0.2303
+Prev Val Results -- Loss: 4.3922 Acc: 0.3699
+0.015528475284576793
+Val Results -- Loss: 4.3767 Acc: 0.3625
+
+
+Epoch 15 Train -- Loss: 4.5667 Acc: 0.2312
+Prev Val Results -- Loss: 4.3767 Acc: 0.3625
+0.004987837314605947
+Val Results -- Loss: 4.3717 Acc: 0.3604
+
+
+Model:  2
+Epoch 1 Train -- Loss: 26.8439 Acc: 0.1354
+Val Results -- Loss: 8.5930 Acc: 0.3460
+
+
+Epoch 2 Train -- Loss: 6.3489 Acc: 0.1528
+Prev Val Results -- Loss: 8.5930 Acc: 0.3460
+3.20893452835083
+Val Results -- Loss: 5.3840 Acc: 0.3579
+
+
+Epoch 3 Train -- Loss: 5.2470 Acc: 0.1808
+Prev Val Results -- Loss: 5.3840 Acc: 0.3579
+0.654981991291046
+Val Results -- Loss: 4.7291 Acc: 0.3692
+
+
+Epoch 4 Train -- Loss: 4.9349 Acc: 0.2035
+Prev Val Results -- Loss: 4.7291 Acc: 0.3692
+0.4054607701301576
+Val Results -- Loss: 4.3236 Acc: 0.3725
+
+
+Epoch 5 Train -- Loss: 4.7622 Acc: 0.2139
+Prev Val Results -- Loss: 4.3236 Acc: 0.3725
+0.24823498630523666
+Val Results -- Loss: 4.5718 Acc: 0.3752
+
+
+Epoch 6 Train -- Loss: 4.7484 Acc: 0.2197
+Prev Val Results -- Loss: 4.5718 Acc: 0.3752
+0.1911896142959595
+Val Results -- Loss: 4.7630 Acc: 0.3644
+
+
+Epoch 7 Train -- Loss: 4.6449 Acc: 0.2316
+Prev Val Results -- Loss: 4.7630 Acc: 0.3644
+0.42449574899673426
+Val Results -- Loss: 4.3385 Acc: 0.3771
+
+
+Epoch 8 Train -- Loss: 4.6065 Acc: 0.2251
+Prev Val Results -- Loss: 4.3385 Acc: 0.3771
+0.09657677555084199
+Val Results -- Loss: 4.4351 Acc: 0.3673
+
+
+Epoch 9 Train -- Loss: 4.6142 Acc: 0.2298
+Prev Val Results -- Loss: 4.4351 Acc: 0.3673
+0.1087623701095577
+Val Results -- Loss: 4.3263 Acc: 0.3692
+
+
+Epoch 10 Train -- Loss: 4.5476 Acc: 0.2303
+Prev Val Results -- Loss: 4.3263 Acc: 0.3692
+0.03970959091186543
+Val Results -- Loss: 4.3661 Acc: 0.3757
+
+
+Epoch 11 Train -- Loss: 4.5578 Acc: 0.2375
+Prev Val Results -- Loss: 4.3661 Acc: 0.3757
+0.011893460750580509
+Val Results -- Loss: 4.3542 Acc: 0.3625
+
+
+Epoch 12 Train -- Loss: 4.5819 Acc: 0.2383
+Prev Val Results -- Loss: 4.3542 Acc: 0.3625
+0.0050708103179930575
+Val Results -- Loss: 4.3491 Acc: 0.3623
+
+
+Model:  3
+Epoch 1 Train -- Loss: 23.1649 Acc: 0.1407
+Val Results -- Loss: 6.2200 Acc: 0.3404
+
+
+Epoch 2 Train -- Loss: 6.2336 Acc: 0.1665
+Prev Val Results -- Loss: 6.2200 Acc: 0.3404
+0.7551760005950934
+Val Results -- Loss: 5.4648 Acc: 0.3600
+
+
+Epoch 3 Train -- Loss: 5.1175 Acc: 0.1794
+Prev Val Results -- Loss: 5.4648 Acc: 0.3600
+1.1364365258216855
+Val Results -- Loss: 4.3284 Acc: 0.3608
+
+
+Epoch 4 Train -- Loss: 4.8747 Acc: 0.1925
+Prev Val Results -- Loss: 4.3284 Acc: 0.3608
+0.09067469120025606
+Val Results -- Loss: 4.4190 Acc: 0.3691
+
+
+Epoch 5 Train -- Loss: 4.7688 Acc: 0.2119
+Prev Val Results -- Loss: 4.4190 Acc: 0.3691
+0.26737830400466844
+Val Results -- Loss: 4.1517 Acc: 0.3705
+
+
+Epoch 6 Train -- Loss: 4.7058 Acc: 0.2172
+Prev Val Results -- Loss: 4.1517 Acc: 0.3705
+0.3533541193008416
+Val Results -- Loss: 4.5050 Acc: 0.3693
+
+
+Epoch 7 Train -- Loss: 4.6340 Acc: 0.2279
+Prev Val Results -- Loss: 4.5050 Acc: 0.3693
+0.032958230972290004
+Val Results -- Loss: 4.4721 Acc: 0.3613
+
+
+Epoch 8 Train -- Loss: 4.5680 Acc: 0.2316
+Prev Val Results -- Loss: 4.4721 Acc: 0.3613
+0.17927743721008316
+Val Results -- Loss: 4.2928 Acc: 0.3697
+
+
+Epoch 9 Train -- Loss: 4.5431 Acc: 0.2390
+Prev Val Results -- Loss: 4.2928 Acc: 0.3697
+0.031705638408661585
+Val Results -- Loss: 4.3245 Acc: 0.3707
+
+
+Epoch 10 Train -- Loss: 4.4914 Acc: 0.2334
+Prev Val Results -- Loss: 4.3245 Acc: 0.3707
+0.06823992633819564
+Val Results -- Loss: 4.3927 Acc: 0.3775
+
+
+Epoch 11 Train -- Loss: 4.4814 Acc: 0.2399
+Prev Val Results -- Loss: 4.3927 Acc: 0.3775
+0.012863453388214374
+Val Results -- Loss: 4.3799 Acc: 0.3704
+
+
+Epoch 12 Train -- Loss: 4.4985 Acc: 0.2451
+Prev Val Results -- Loss: 4.3799 Acc: 0.3704
+0.02905552244186449
+Val Results -- Loss: 4.4089 Acc: 0.3633
+
+
+Epoch 13 Train -- Loss: 4.5733 Acc: 0.2428
+Prev Val Results -- Loss: 4.4089 Acc: 0.3633
+0.044701890468597405
+Val Results -- Loss: 4.3642 Acc: 0.3713
+
+
+Epoch 14 Train -- Loss: 4.5268 Acc: 0.2417
+Prev Val Results -- Loss: 4.3642 Acc: 0.3713
+0.015606713771819436
+Val Results -- Loss: 4.3798 Acc: 0.3687
+
+
+Epoch 15 Train -- Loss: 4.5045 Acc: 0.2369
+Prev Val Results -- Loss: 4.3798 Acc: 0.3687
+0.029818590164184755
+Val Results -- Loss: 4.3500 Acc: 0.3632
+
+
+Epoch 16 Train -- Loss: 4.5634 Acc: 0.2391
+Prev Val Results -- Loss: 4.3500 Acc: 0.3632
+0.028186568737030626
+Val Results -- Loss: 4.3782 Acc: 0.3593
+
+
+Epoch 17 Train -- Loss: 4.5326 Acc: 0.2331
+Prev Val Results -- Loss: 4.3782 Acc: 0.3593
+0.016126018047333268
+Val Results -- Loss: 4.3621 Acc: 0.3613
+
+
+Epoch 18 Train -- Loss: 4.5289 Acc: 0.2429
+Prev Val Results -- Loss: 4.3621 Acc: 0.3613
+0.006566986083984538
+Val Results -- Loss: 4.3686 Acc: 0.3640
+
+
+Epoch 19 Train -- Loss: 4.5570 Acc: 0.2337
+Prev Val Results -- Loss: 4.3686 Acc: 0.3640
+0.00012909507751412974
+Val Results -- Loss: 4.3685 Acc: 0.3623
+
+
+Model:  4
+Epoch 1 Train -- Loss: 23.1503 Acc: 0.1506
+Val Results -- Loss: 11.9623 Acc: 0.3592
+
+
+Epoch 2 Train -- Loss: 8.2658 Acc: 0.1683
+Prev Val Results -- Loss: 11.9623 Acc: 0.3592
+4.537478873252869
+Val Results -- Loss: 7.4248 Acc: 0.3659
+
+
+Epoch 3 Train -- Loss: 6.6709 Acc: 0.1756
+Prev Val Results -- Loss: 7.4248 Acc: 0.3659
+2.321973978042603
+Val Results -- Loss: 5.1028 Acc: 0.3756
+
+
+Epoch 4 Train -- Loss: 5.7748 Acc: 0.1886
+Prev Val Results -- Loss: 5.1028 Acc: 0.3756
+0.9908124780654912
+Val Results -- Loss: 6.0937 Acc: 0.3716
+
+
+Epoch 5 Train -- Loss: 5.3375 Acc: 0.1972
+Prev Val Results -- Loss: 6.0937 Acc: 0.3716
+0.6023977298736574
+Val Results -- Loss: 5.4913 Acc: 0.3705
+
+
+Epoch 6 Train -- Loss: 5.1323 Acc: 0.2076
+Prev Val Results -- Loss: 5.4913 Acc: 0.3705
+0.43956014728546133
+Val Results -- Loss: 5.0517 Acc: 0.3808
+
+
+Epoch 7 Train -- Loss: 4.8422 Acc: 0.2117
+Prev Val Results -- Loss: 5.0517 Acc: 0.3808
+0.6881919498443603
+Val Results -- Loss: 4.3635 Acc: 0.3825
+
+
+Epoch 8 Train -- Loss: 4.7863 Acc: 0.2167
+Prev Val Results -- Loss: 4.3635 Acc: 0.3825
+0.0244615764617917
+Val Results -- Loss: 4.3390 Acc: 0.3784
+
+
+Epoch 9 Train -- Loss: 4.6729 Acc: 0.2076
+Prev Val Results -- Loss: 4.3390 Acc: 0.3784
+0.19971900177001878
+Val Results -- Loss: 4.5388 Acc: 0.3728
+
+
+Epoch 10 Train -- Loss: 4.6646 Acc: 0.2163
+Prev Val Results -- Loss: 4.5388 Acc: 0.3728
+0.27905233955383224
+Val Results -- Loss: 4.2597 Acc: 0.3768
+
+
+Epoch 11 Train -- Loss: 4.6605 Acc: 0.2144
+Prev Val Results -- Loss: 4.2597 Acc: 0.3768
+0.05696723699569617
+Val Results -- Loss: 4.3167 Acc: 0.3755
+
+
+Epoch 12 Train -- Loss: 4.7048 Acc: 0.2142
+Prev Val Results -- Loss: 4.3167 Acc: 0.3755
+0.0704720025062553
+Val Results -- Loss: 4.2462 Acc: 0.3724
+
+
+Epoch 13 Train -- Loss: 4.6247 Acc: 0.2194
+Prev Val Results -- Loss: 4.2462 Acc: 0.3724
+0.05155688762664745
+Val Results -- Loss: 4.2978 Acc: 0.3737
+
+
+Epoch 14 Train -- Loss: 4.5971 Acc: 0.2141
+Prev Val Results -- Loss: 4.2978 Acc: 0.3737
+0.07153872251510585
+Val Results -- Loss: 4.2262 Acc: 0.3723
+
+
+Epoch 15 Train -- Loss: 4.5883 Acc: 0.2175
+Prev Val Results -- Loss: 4.2262 Acc: 0.3723
+0.04520026540756206
+Val Results -- Loss: 4.2714 Acc: 0.3756
+
+
+Epoch 16 Train -- Loss: 4.6038 Acc: 0.2169
+Prev Val Results -- Loss: 4.2714 Acc: 0.3756
+0.011098143577576103
+Val Results -- Loss: 4.2603 Acc: 0.3757
+
+
+Epoch 17 Train -- Loss: 4.6265 Acc: 0.2144
+Prev Val Results -- Loss: 4.2603 Acc: 0.3757
+0.006031141281128249
+Val Results -- Loss: 4.2664 Acc: 0.3827
+
+
+Epoch 18 Train -- Loss: 4.6295 Acc: 0.2182
+Prev Val Results -- Loss: 4.2664 Acc: 0.3827
+0.02326539373397818
+Val Results -- Loss: 4.2431 Acc: 0.3644
+
+
+Epoch 19 Train -- Loss: 4.6530 Acc: 0.2156
+Prev Val Results -- Loss: 4.2431 Acc: 0.3644
+0.0310249528884885
+Val Results -- Loss: 4.2741 Acc: 0.3784
+
+
+Epoch 20 Train -- Loss: 4.5997 Acc: 0.2219
+Prev Val Results -- Loss: 4.2741 Acc: 0.3784
+0.0031189064979546544
+Val Results -- Loss: 4.2710 Acc: 0.3903
+
+
+Model:  5
+Epoch 1 Train -- Loss: 19.6134 Acc: 0.1526
+Val Results -- Loss: 13.0664 Acc: 0.3603
+
+
+Epoch 2 Train -- Loss: 8.3203 Acc: 0.1589
+Prev Val Results -- Loss: 13.0664 Acc: 0.3603
+5.574075838088989
+Val Results -- Loss: 7.4923 Acc: 0.3691
+
+
+Epoch 3 Train -- Loss: 6.4918 Acc: 0.1757
+Prev Val Results -- Loss: 7.4923 Acc: 0.3691
+2.749000405311585
+Val Results -- Loss: 4.7433 Acc: 0.3725
+
+
+Epoch 4 Train -- Loss: 5.5856 Acc: 0.1829
+Prev Val Results -- Loss: 4.7433 Acc: 0.3725
+0.4062869033813481
+Val Results -- Loss: 5.1496 Acc: 0.3692
+
+
+Epoch 5 Train -- Loss: 5.2796 Acc: 0.1965
+Prev Val Results -- Loss: 5.1496 Acc: 0.3692
+0.46659235239028973
+Val Results -- Loss: 4.6830 Acc: 0.3648
+
+
+Epoch 6 Train -- Loss: 5.0383 Acc: 0.2053
+Prev Val Results -- Loss: 4.6830 Acc: 0.3648
+0.057993837356566935
+Val Results -- Loss: 4.6250 Acc: 0.3737
+
+
+Epoch 7 Train -- Loss: 4.8525 Acc: 0.2120
+Prev Val Results -- Loss: 4.6250 Acc: 0.3737
+0.4365569868087773
+Val Results -- Loss: 4.1885 Acc: 0.3595
+
+
+Epoch 8 Train -- Loss: 4.7562 Acc: 0.2140
+Prev Val Results -- Loss: 4.1885 Acc: 0.3595
+0.13206303167343147
+Val Results -- Loss: 4.3205 Acc: 0.3617
+
+
+Epoch 9 Train -- Loss: 4.6955 Acc: 0.2183
+Prev Val Results -- Loss: 4.3205 Acc: 0.3617
+0.12266085243225078
+Val Results -- Loss: 4.4432 Acc: 0.3689
+
+
+Epoch 10 Train -- Loss: 4.6478 Acc: 0.2161
+Prev Val Results -- Loss: 4.4432 Acc: 0.3689
+0.128246259212494
+Val Results -- Loss: 4.3150 Acc: 0.3616
+
+
+Epoch 11 Train -- Loss: 4.6586 Acc: 0.2216
+Prev Val Results -- Loss: 4.3150 Acc: 0.3616
+0.003231760501861025
+Val Results -- Loss: 4.3117 Acc: 0.3599
+
+
+Model:  6
+Epoch 1 Train -- Loss: 19.7178 Acc: 0.1479
+Val Results -- Loss: 9.5821 Acc: 0.3445
+
+
+Epoch 2 Train -- Loss: 6.6053 Acc: 0.1593
+Prev Val Results -- Loss: 9.5821 Acc: 0.3445
+4.512892639160157
+Val Results -- Loss: 5.0693 Acc: 0.3729
+
+
+Epoch 3 Train -- Loss: 5.3116 Acc: 0.1669
+Prev Val Results -- Loss: 5.0693 Acc: 0.3729
+0.18018604755401668
+Val Results -- Loss: 4.8891 Acc: 0.3609
+
+
+Epoch 4 Train -- Loss: 5.0015 Acc: 0.1738
+Prev Val Results -- Loss: 4.8891 Acc: 0.3609
+0.41372634935378994
+Val Results -- Loss: 4.4753 Acc: 0.3824
+
+
+Epoch 5 Train -- Loss: 4.8887 Acc: 0.1869
+Prev Val Results -- Loss: 4.4753 Acc: 0.3824
+0.02357398557662993
+Val Results -- Loss: 4.4989 Acc: 0.3752
+
+
+Epoch 6 Train -- Loss: 4.7984 Acc: 0.1950
+Prev Val Results -- Loss: 4.4989 Acc: 0.3752
+0.18624055719375665
+Val Results -- Loss: 4.3127 Acc: 0.3749
+
+
+Epoch 7 Train -- Loss: 4.7385 Acc: 0.2009
+Prev Val Results -- Loss: 4.3127 Acc: 0.3749
+0.06427638912200972
+Val Results -- Loss: 4.3770 Acc: 0.3667
+
+
+Epoch 8 Train -- Loss: 4.7179 Acc: 0.2013
+Prev Val Results -- Loss: 4.3770 Acc: 0.3667
+0.07718216371536268
+Val Results -- Loss: 4.2998 Acc: 0.3728
+
+
+Epoch 9 Train -- Loss: 4.6778 Acc: 0.2069
+Prev Val Results -- Loss: 4.2998 Acc: 0.3728
+0.06788896417617796
+Val Results -- Loss: 4.2319 Acc: 0.3685
+
+
+Epoch 10 Train -- Loss: 4.6862 Acc: 0.2041
+Prev Val Results -- Loss: 4.2319 Acc: 0.3685
+0.008658749580383152
+Val Results -- Loss: 4.2405 Acc: 0.3728
+
+
+Epoch 11 Train -- Loss: 4.6732 Acc: 0.2079
+Prev Val Results -- Loss: 4.2405 Acc: 0.3728
+0.028488913059234733
+Val Results -- Loss: 4.2690 Acc: 0.3751
+
+
+Epoch 12 Train -- Loss: 4.6500 Acc: 0.2098
+Prev Val Results -- Loss: 4.2690 Acc: 0.3751
+0.012297719478607583
+Val Results -- Loss: 4.2567 Acc: 0.3695
+
+
+Epoch 13 Train -- Loss: 4.6547 Acc: 0.2104
+Prev Val Results -- Loss: 4.2567 Acc: 0.3695
+0.008757533550262764
+Val Results -- Loss: 4.2655 Acc: 0.3784
+
+
+Epoch 14 Train -- Loss: 4.6617 Acc: 0.2070
+Prev Val Results -- Loss: 4.2655 Acc: 0.3784
+0.016270774364471663
+Val Results -- Loss: 4.2492 Acc: 0.3811
+
+
+Epoch 15 Train -- Loss: 4.6905 Acc: 0.2061
+Prev Val Results -- Loss: 4.2492 Acc: 0.3811
+0.004407327175140807
+Val Results -- Loss: 4.2536 Acc: 0.3787
+
+
+Model:  7
+Epoch 1 Train -- Loss: 22.8396 Acc: 0.1427
+Val Results -- Loss: 7.3853 Acc: 0.3535
+
+
+Epoch 2 Train -- Loss: 6.5415 Acc: 0.1696
+Prev Val Results -- Loss: 7.3853 Acc: 0.3535
+2.276869516372681
+Val Results -- Loss: 5.1085 Acc: 0.3605
+
+
+Epoch 3 Train -- Loss: 5.3151 Acc: 0.1707
+Prev Val Results -- Loss: 5.1085 Acc: 0.3605
+0.5594713568687437
+Val Results -- Loss: 4.5490 Acc: 0.3520
+
+
+Epoch 4 Train -- Loss: 5.0186 Acc: 0.1800
+Prev Val Results -- Loss: 4.5490 Acc: 0.3520
+0.10892920255661043
+Val Results -- Loss: 4.4401 Acc: 0.3631
+
+
+Epoch 5 Train -- Loss: 4.9269 Acc: 0.1862
+Prev Val Results -- Loss: 4.4401 Acc: 0.3631
+0.15133205652236903
+Val Results -- Loss: 4.2887 Acc: 0.3724
+
+
+Epoch 6 Train -- Loss: 4.8723 Acc: 0.1882
+Prev Val Results -- Loss: 4.2887 Acc: 0.3724
+0.1559670629501344
+Val Results -- Loss: 4.1328 Acc: 0.3712
+
+
+Epoch 7 Train -- Loss: 4.8023 Acc: 0.1920
+Prev Val Results -- Loss: 4.1328 Acc: 0.3712
+0.10488496589660645
+Val Results -- Loss: 4.2377 Acc: 0.3677
+
+
+Epoch 8 Train -- Loss: 4.7965 Acc: 0.1933
+Prev Val Results -- Loss: 4.2377 Acc: 0.3677
+0.06530477523803757
+Val Results -- Loss: 4.3030 Acc: 0.3739
+
+
+Epoch 9 Train -- Loss: 4.7628 Acc: 0.1969
+Prev Val Results -- Loss: 4.3030 Acc: 0.3739
+0.08724359369278023
+Val Results -- Loss: 4.2157 Acc: 0.3871
+
+
+Epoch 10 Train -- Loss: 4.7518 Acc: 0.1933
+Prev Val Results -- Loss: 4.2157 Acc: 0.3871
+0.0031841354370110153
+Val Results -- Loss: 4.2125 Acc: 0.3773
+
+
+Model:  8
+Epoch 1 Train -- Loss: 25.0314 Acc: 0.1500
+Val Results -- Loss: 9.7234 Acc: 0.3631
+
+
+Epoch 2 Train -- Loss: 7.3811 Acc: 0.1604
+Prev Val Results -- Loss: 9.7234 Acc: 0.3631
+4.345412581443787
+Val Results -- Loss: 5.3780 Acc: 0.3692
+
+
+Epoch 3 Train -- Loss: 5.6901 Acc: 0.1752
+Prev Val Results -- Loss: 5.3780 Acc: 0.3692
+0.05909894084930478
+Val Results -- Loss: 5.3189 Acc: 0.3600
+
+
+Epoch 4 Train -- Loss: 5.1633 Acc: 0.1848
+Prev Val Results -- Loss: 5.3189 Acc: 0.3600
+0.9406028647422788
+Val Results -- Loss: 4.3783 Acc: 0.3684
+
+
+Epoch 5 Train -- Loss: 4.9694 Acc: 0.1923
+Prev Val Results -- Loss: 4.3783 Acc: 0.3684
+0.12256095552444446
+Val Results -- Loss: 4.5008 Acc: 0.3693
+
+
+Epoch 6 Train -- Loss: 4.8584 Acc: 0.2009
+Prev Val Results -- Loss: 4.5008 Acc: 0.3693
+0.2247024664878845
+Val Results -- Loss: 4.2761 Acc: 0.3911
+
+
+Epoch 7 Train -- Loss: 4.7815 Acc: 0.2063
+Prev Val Results -- Loss: 4.2761 Acc: 0.3911
+0.06907236671447681
+Val Results -- Loss: 4.2071 Acc: 0.3739
+
+
+Epoch 8 Train -- Loss: 4.7347 Acc: 0.2130
+Prev Val Results -- Loss: 4.2071 Acc: 0.3739
+0.11209563541412315
+Val Results -- Loss: 4.3192 Acc: 0.3844
+
+
+Epoch 9 Train -- Loss: 4.6936 Acc: 0.2061
+Prev Val Results -- Loss: 4.3192 Acc: 0.3844
+0.03844657611846891
+Val Results -- Loss: 4.2807 Acc: 0.3759
+
+
+Epoch 10 Train -- Loss: 4.6650 Acc: 0.2108
+Prev Val Results -- Loss: 4.2807 Acc: 0.3759
+0.021990859031676635
+Val Results -- Loss: 4.3027 Acc: 0.3825
+
+
+Epoch 11 Train -- Loss: 4.6572 Acc: 0.2120
+Prev Val Results -- Loss: 4.3027 Acc: 0.3825
+0.032031216144561725
+Val Results -- Loss: 4.2707 Acc: 0.3736
+
+
+Epoch 12 Train -- Loss: 4.6704 Acc: 0.2082
+Prev Val Results -- Loss: 4.2707 Acc: 0.3736
+0.0055471062660217285
+Val Results -- Loss: 4.2762 Acc: 0.3755
+
+
+Epoch 13 Train -- Loss: 4.6979 Acc: 0.2100
+Prev Val Results -- Loss: 4.2762 Acc: 0.3755
+0.037604590892791556
+Val Results -- Loss: 4.2386 Acc: 0.3781
+
+
+Epoch 14 Train -- Loss: 4.6482 Acc: 0.2142
+Prev Val Results -- Loss: 4.2386 Acc: 0.3781
+0.015006776809692646
+Val Results -- Loss: 4.2536 Acc: 0.3769
+
+
+Epoch 15 Train -- Loss: 4.6665 Acc: 0.2115
+Prev Val Results -- Loss: 4.2536 Acc: 0.3769
+0.0036071796417243007
+Val Results -- Loss: 4.2500 Acc: 0.3789
+
+
+Model:  9
+Epoch 1 Train -- Loss: 21.0141 Acc: 0.1469
+Val Results -- Loss: 6.4239 Acc: 0.3756
+
+
+Epoch 2 Train -- Loss: 6.1931 Acc: 0.1540
+Prev Val Results -- Loss: 6.4239 Acc: 0.3756
+1.6926650037765505
+Val Results -- Loss: 4.7312 Acc: 0.3687
+
+
+Epoch 3 Train -- Loss: 5.2504 Acc: 0.1666
+Prev Val Results -- Loss: 4.7312 Acc: 0.3687
+0.11714052677154552
+Val Results -- Loss: 4.8483 Acc: 0.3536
+
+
+Epoch 4 Train -- Loss: 5.0446 Acc: 0.1749
+Prev Val Results -- Loss: 4.8483 Acc: 0.3536
+0.5403097300529476
+Val Results -- Loss: 4.3080 Acc: 0.3709
+
+
+Epoch 5 Train -- Loss: 4.9424 Acc: 0.1787
+Prev Val Results -- Loss: 4.3080 Acc: 0.3709
+0.10680375146865906
+Val Results -- Loss: 4.2012 Acc: 0.3668
+
+
+Epoch 6 Train -- Loss: 4.8575 Acc: 0.1856
+Prev Val Results -- Loss: 4.2012 Acc: 0.3668
+0.008065302371978333
+Val Results -- Loss: 4.1932 Acc: 0.3841
+
+
+Epoch 7 Train -- Loss: 4.8378 Acc: 0.1858
+Prev Val Results -- Loss: 4.1932 Acc: 0.3841
+0.05400048446655248
+Val Results -- Loss: 4.2472 Acc: 0.3721
+
+
+Epoch 8 Train -- Loss: 4.7700 Acc: 0.1882
+Prev Val Results -- Loss: 4.2472 Acc: 0.3721
+0.09140613937377928
+Val Results -- Loss: 4.3386 Acc: 0.3740
+
+
+Epoch 9 Train -- Loss: 4.8183 Acc: 0.1925
+Prev Val Results -- Loss: 4.3386 Acc: 0.3740
+0.1456068220138551
+Val Results -- Loss: 4.1930 Acc: 0.3747
+
+
+Epoch 10 Train -- Loss: 4.7274 Acc: 0.1881
+Prev Val Results -- Loss: 4.1930 Acc: 0.3747
+0.04692295932769763
+Val Results -- Loss: 4.2399 Acc: 0.3859
+
+
+Epoch 11 Train -- Loss: 4.7847 Acc: 0.1914
+Prev Val Results -- Loss: 4.2399 Acc: 0.3859
+0.059091386795043555
+Val Results -- Loss: 4.1808 Acc: 0.3803
+
+
+Epoch 12 Train -- Loss: 4.7347 Acc: 0.1938
+Prev Val Results -- Loss: 4.1808 Acc: 0.3803
+0.03288695335388159
+Val Results -- Loss: 4.2137 Acc: 0.3764
+
+
+Epoch 13 Train -- Loss: 4.7596 Acc: 0.1926
+Prev Val Results -- Loss: 4.2137 Acc: 0.3764
+0.009014217376708267
+Val Results -- Loss: 4.2047 Acc: 0.3785
+
+
+Epoch 14 Train -- Loss: 4.7490 Acc: 0.1936
+Prev Val Results -- Loss: 4.2047 Acc: 0.3785
+0.01891830635070768
+Val Results -- Loss: 4.2236 Acc: 0.3743
+
+
+Epoch 15 Train -- Loss: 4.7468 Acc: 0.1960
+Prev Val Results -- Loss: 4.2236 Acc: 0.3743
+0.013569055080413506
+Val Results -- Loss: 4.2372 Acc: 0.3771
+
+
+Epoch 16 Train -- Loss: 4.7238 Acc: 0.1927
+Prev Val Results -- Loss: 4.2372 Acc: 0.3771
+0.048969398975372336
+Val Results -- Loss: 4.1882 Acc: 0.3680
+
+
+Epoch 17 Train -- Loss: 4.7443 Acc: 0.1914
+Prev Val Results -- Loss: 4.1882 Acc: 0.3680
+0.01918319416046188
+Val Results -- Loss: 4.2074 Acc: 0.3701
+
+
+Epoch 18 Train -- Loss: 4.7556 Acc: 0.1932
+Prev Val Results -- Loss: 4.2074 Acc: 0.3701
+0.023118697643280228
+Val Results -- Loss: 4.2305 Acc: 0.3811
+
+
+Epoch 19 Train -- Loss: 4.7358 Acc: 0.1944
+Prev Val Results -- Loss: 4.2305 Acc: 0.3811
+0.014669618129730999
+Val Results -- Loss: 4.2158 Acc: 0.3769
+
+
+Epoch 20 Train -- Loss: 4.7396 Acc: 0.1925
+Prev Val Results -- Loss: 4.2158 Acc: 0.3769
+0.0017190179824826402
+Val Results -- Loss: 4.2141 Acc: 0.3735
+
+
+Model:  10
+Epoch 1 Train -- Loss: 20.8683 Acc: 0.1438
+Val Results -- Loss: 7.4013 Acc: 0.3593
+
+
+Epoch 2 Train -- Loss: 6.3446 Acc: 0.1620
+Prev Val Results -- Loss: 7.4013 Acc: 0.3593
+2.8970858535766606
+Val Results -- Loss: 4.5042 Acc: 0.3565
+
+
+Epoch 3 Train -- Loss: 5.2722 Acc: 0.1724
+Prev Val Results -- Loss: 4.5042 Acc: 0.3565
+0.21810699462890604
+Val Results -- Loss: 4.2861 Acc: 0.3573
+
+
+Epoch 4 Train -- Loss: 4.9602 Acc: 0.1802
+Prev Val Results -- Loss: 4.2861 Acc: 0.3573
+0.1230150852203371
+Val Results -- Loss: 4.4091 Acc: 0.3629
+
+
+Epoch 5 Train -- Loss: 4.8424 Acc: 0.1926
+Prev Val Results -- Loss: 4.4091 Acc: 0.3629
+0.026445116519928646
+Val Results -- Loss: 4.3826 Acc: 0.3651
+
+
+Epoch 6 Train -- Loss: 4.7856 Acc: 0.1919
+Prev Val Results -- Loss: 4.3826 Acc: 0.3651
+0.1468523006439204
+Val Results -- Loss: 4.2358 Acc: 0.3632
+
+
+Epoch 7 Train -- Loss: 4.7642 Acc: 0.1956
+Prev Val Results -- Loss: 4.2358 Acc: 0.3632
+0.0037379589080810405
+Val Results -- Loss: 4.2320 Acc: 0.3852
+
+
+<class 'numpy.ndarray'>
+<class 'list'>
+['Atelectasis', 'Edema', 'Enlarged Cardiomediastinum']
+Best Model:  1
+Test results -- Loss: 4.5000 Acc: 0.4263
+precision: [0.35155514 0.48725212 0.44318182]
+recall: [0.373 0.516 0.39 ]
+fscore: [0.36196021 0.50121418 0.41489362]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.53936275
+AUROC for  Edema :  0.683611
+AUROC for  Enlarged Cardiomediastinum :  0.6279815
+Atelectasis :  0.53936275
+Edema :  0.683611
+Enlarged Cardiomediastinum :  0.6279815
+
+
+Best Model:  2
+Test results -- Loss: 4.5481 Acc: 0.4227
+precision: [0.36116505 0.4809322  0.43079922]
+recall: [0.372 0.454 0.442]
+fscore: [0.36650246 0.46707819 0.43632774]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.512594
+AUROC for  Edema :  0.667492
+AUROC for  Enlarged Cardiomediastinum :  0.6205855000000001
+Atelectasis :  0.512594
+Edema :  0.667492
+Enlarged Cardiomediastinum :  0.6205855000000001
+
+
+Best Model:  3
+Test results -- Loss: 4.5574 Acc: 0.4263
+precision: [0.36283186 0.4640592  0.45419479]
+recall: [0.369 0.439 0.471]
+fscore: [0.36588994 0.45118191 0.46244477]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.5251385
+AUROC for  Edema :  0.65849025
+AUROC for  Enlarged Cardiomediastinum :  0.6185825
+Atelectasis :  0.5251385
+Edema :  0.65849025
+Enlarged Cardiomediastinum :  0.6185825
+
+
+Best Model:  4
+Test results -- Loss: 4.4546 Acc: 0.4263
+precision: [0.35589942 0.4875805  0.4334471 ]
+recall: [0.368 0.53  0.381]
+fscore: [0.36184857 0.50790609 0.40553486]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.5331395
+AUROC for  Edema :  0.698106
+AUROC for  Enlarged Cardiomediastinum :  0.6174925
+Atelectasis :  0.5331395
+Edema :  0.698106
+Enlarged Cardiomediastinum :  0.6174925
+
+
+Best Model:  5
+Test results -- Loss: 4.4841 Acc: 0.4403
+precision: [0.36688617 0.51121495 0.44290657]
+recall: [0.39  0.547 0.384]
+fscore: [0.37809016 0.52850242 0.41135512]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.53576875
+AUROC for  Edema :  0.70175325
+AUROC for  Enlarged Cardiomediastinum :  0.6217280000000001
+Atelectasis :  0.53576875
+Edema :  0.70175325
+Enlarged Cardiomediastinum :  0.6217280000000001
+
+
+Best Model:  6
+Test results -- Loss: 4.5196 Acc: 0.4290
+precision: [0.37757202 0.47468959 0.43119266]
+recall: [0.367 0.497 0.423]
+fscore: [0.37221095 0.48558867 0.42705704]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.5262180000000001
+AUROC for  Edema :  0.672143
+AUROC for  Enlarged Cardiomediastinum :  0.61457075
+Atelectasis :  0.5262180000000001
+Edema :  0.672143
+Enlarged Cardiomediastinum :  0.61457075
+
+
+Best Model:  7
+Test results -- Loss: 4.4309 Acc: 0.4310
+precision: [0.35068762 0.48727984 0.45625   ]
+recall: [0.357 0.498 0.438]
+fscore: [0.35381566 0.4925816  0.44693878]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.5210907499999999
+AUROC for  Edema :  0.694522
+AUROC for  Enlarged Cardiomediastinum :  0.651791
+Atelectasis :  0.5210907499999999
+Edema :  0.694522
+Enlarged Cardiomediastinum :  0.651791
+
+
+Best Model:  8
+Test results -- Loss: 4.5002 Acc: 0.4190
+precision: [0.34439834 0.46493756 0.44321608]
+recall: [0.332 0.484 0.441]
+fscore: [0.33808554 0.47427732 0.44210526]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.506393
+AUROC for  Edema :  0.664253
+AUROC for  Enlarged Cardiomediastinum :  0.613651
+Atelectasis :  0.506393
+Edema :  0.664253
+Enlarged Cardiomediastinum :  0.613651
+
+
+Best Model:  9
+Test results -- Loss: 4.4284 Acc: 0.4407
+precision: [0.3509865  0.51198466 0.4527163 ]
+recall: [0.338 0.534 0.45 ]
+fscore: [0.34437086 0.52276065 0.45135406]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.530227
+AUROC for  Edema :  0.7096715
+AUROC for  Enlarged Cardiomediastinum :  0.6488032499999999
+Atelectasis :  0.530227
+Edema :  0.7096715
+Enlarged Cardiomediastinum :  0.6488032499999999
+
+
+Best Model:  10
+Test results -- Loss: 4.5525 Acc: 0.4040
+precision: [0.33533534 0.44686907 0.42872228]
+recall: [0.335 0.471 0.406]
+fscore: [0.33516758 0.45861733 0.41705187]
+support: [1000 1000 1000]
+AUROC for  Atelectasis :  0.5084274999999999
+AUROC for  Edema :  0.6449259999999999
+AUROC for  Enlarged Cardiomediastinum :  0.617212
+Atelectasis :  0.5084274999999999
+Edema :  0.6449259999999999
+Enlarged Cardiomediastinum :  0.617212
+
+
+Mean AUROC of  Atelectasis :  0.5238 
+ Std AUROC of  Atelectasis : 0.0109
+Mean AUROC of  Edema :  0.6795 
+ Std AUROC of  Edema : 0.0202
+Mean AUROC of  Enlarged Cardiomediastinum :  0.6252 
+ Std AUROC of  Enlarged Cardiomediastinum : 0.0131

@@ -1,0 +1,520 @@
+Time to load train arrays
+Time to load train arrays
+Time to load train arrays
+23715 (23715, 128, 128, 3)
+23715
+6880
+6880
+5824
+5824
+Model:  1
+Epoch 1 Train -- Loss: 0.2169 Acc: 0.1332
+Val Results -- Loss: 0.4212 Acc: 0.3685
+
+
+Epoch 2 Train -- Loss: 0.4140 Acc: 0.3789
+Prev Val Results -- Loss: 0.4212 Acc: 0.3685
+0.004774225405735355
+Val Results -- Loss: 0.4260 Acc: 0.3709
+
+
+Epoch 3 Train -- Loss: 0.4192 Acc: 0.3661
+Prev Val Results -- Loss: 0.4260 Acc: 0.3709
+0.015168712917273341
+Val Results -- Loss: 0.4108 Acc: 0.3713
+
+
+Epoch 4 Train -- Loss: 0.4292 Acc: 0.3693
+Prev Val Results -- Loss: 0.4108 Acc: 0.3713
+0.020253000958421086
+Val Results -- Loss: 0.4311 Acc: 0.3647
+
+
+Epoch 5 Train -- Loss: 0.4275 Acc: 0.3567
+Prev Val Results -- Loss: 0.4311 Acc: 0.3647
+0.009111808749599215
+Val Results -- Loss: 0.4220 Acc: 0.3693
+
+
+Epoch 6 Train -- Loss: 0.4076 Acc: 0.3693
+Prev Val Results -- Loss: 0.4220 Acc: 0.3693
+0.007982218593014345
+Val Results -- Loss: 0.4140 Acc: 0.3672
+
+
+Epoch 7 Train -- Loss: 0.4242 Acc: 0.3643
+Prev Val Results -- Loss: 0.4140 Acc: 0.3672
+0.00258535182131292
+Val Results -- Loss: 0.4166 Acc: 0.3676
+
+
+Model:  2
+Epoch 1 Train -- Loss: 0.2171 Acc: 0.1275
+Val Results -- Loss: 0.4202 Acc: 0.3693
+
+
+Epoch 2 Train -- Loss: 0.4253 Acc: 0.3501
+Prev Val Results -- Loss: 0.4202 Acc: 0.3693
+0.014840407258822241
+Val Results -- Loss: 0.4350 Acc: 0.3557
+
+
+Epoch 3 Train -- Loss: 0.4262 Acc: 0.3640
+Prev Val Results -- Loss: 0.4350 Acc: 0.3557
+0.014115908467619953
+Val Results -- Loss: 0.4209 Acc: 0.3701
+
+
+Epoch 4 Train -- Loss: 0.4228 Acc: 0.3713
+Prev Val Results -- Loss: 0.4209 Acc: 0.3701
+0.013256019128642327
+Val Results -- Loss: 0.4341 Acc: 0.3560
+
+
+Epoch 5 Train -- Loss: 0.4248 Acc: 0.3619
+Prev Val Results -- Loss: 0.4341 Acc: 0.3560
+0.00131523380201648
+Val Results -- Loss: 0.4328 Acc: 0.3655
+
+
+Model:  3
+Epoch 1 Train -- Loss: 0.2170 Acc: 0.1314
+Val Results -- Loss: 0.4050 Acc: 0.3760
+
+
+Epoch 2 Train -- Loss: 0.4305 Acc: 0.3643
+Prev Val Results -- Loss: 0.4050 Acc: 0.3760
+0.021814152700229517
+Val Results -- Loss: 0.4268 Acc: 0.3671
+
+
+Epoch 3 Train -- Loss: 0.4158 Acc: 0.3693
+Prev Val Results -- Loss: 0.4268 Acc: 0.3671
+0.006150719693428064
+Val Results -- Loss: 0.4206 Acc: 0.3603
+
+
+Epoch 4 Train -- Loss: 0.4344 Acc: 0.3591
+Prev Val Results -- Loss: 0.4206 Acc: 0.3603
+0.0019127959237612013
+Val Results -- Loss: 0.4187 Acc: 0.3647
+
+
+Epoch 5 Train -- Loss: 0.4175 Acc: 0.3745
+Prev Val Results -- Loss: 0.4187 Acc: 0.3647
+0.0018149395384219336
+Val Results -- Loss: 0.4169 Acc: 0.3704
+
+
+Model:  4
+Epoch 1 Train -- Loss: 0.2171 Acc: 0.1301
+Val Results -- Loss: 0.4218 Acc: 0.3691
+
+
+Epoch 2 Train -- Loss: 0.4227 Acc: 0.3611
+Prev Val Results -- Loss: 0.4218 Acc: 0.3691
+0.008057146714232966
+Val Results -- Loss: 0.4137 Acc: 0.3808
+
+
+Epoch 3 Train -- Loss: 0.4134 Acc: 0.3735
+Prev Val Results -- Loss: 0.4137 Acc: 0.3808
+0.016417388164500946
+Val Results -- Loss: 0.4301 Acc: 0.3628
+
+
+Epoch 4 Train -- Loss: 0.4196 Acc: 0.3719
+Prev Val Results -- Loss: 0.4301 Acc: 0.3628
+0.0020941717905444412
+Val Results -- Loss: 0.4280 Acc: 0.3669
+
+
+Epoch 5 Train -- Loss: 0.4182 Acc: 0.3689
+Prev Val Results -- Loss: 0.4280 Acc: 0.3669
+0.0077437447552818894
+Val Results -- Loss: 0.4203 Acc: 0.3725
+
+
+Epoch 6 Train -- Loss: 0.4175 Acc: 0.3641
+Prev Val Results -- Loss: 0.4203 Acc: 0.3725
+0.004024534278495473
+Val Results -- Loss: 0.4163 Acc: 0.3719
+
+
+Model:  5
+Epoch 1 Train -- Loss: 0.2161 Acc: 0.1345
+Val Results -- Loss: 0.4184 Acc: 0.3687
+
+
+Epoch 2 Train -- Loss: 0.4285 Acc: 0.3556
+Prev Val Results -- Loss: 0.4184 Acc: 0.3687
+0.0026053042669509363
+Val Results -- Loss: 0.4158 Acc: 0.3743
+
+
+Epoch 3 Train -- Loss: 0.4332 Acc: 0.3565
+Prev Val Results -- Loss: 0.4158 Acc: 0.3743
+0.011559660413342776
+Val Results -- Loss: 0.4274 Acc: 0.3608
+
+
+Epoch 4 Train -- Loss: 0.4280 Acc: 0.3611
+Prev Val Results -- Loss: 0.4274 Acc: 0.3608
+0.002431180189948423
+Val Results -- Loss: 0.4249 Acc: 0.3648
+
+
+Epoch 5 Train -- Loss: 0.4219 Acc: 0.3691
+Prev Val Results -- Loss: 0.4249 Acc: 0.3648
+0.00134330579761055
+Val Results -- Loss: 0.4263 Acc: 0.3664
+
+
+Model:  6
+Epoch 1 Train -- Loss: 0.2177 Acc: 0.1285
+Val Results -- Loss: 0.4299 Acc: 0.3627
+
+
+Epoch 2 Train -- Loss: 0.4234 Acc: 0.3713
+Prev Val Results -- Loss: 0.4299 Acc: 0.3627
+0.008217177090556138
+Val Results -- Loss: 0.4217 Acc: 0.3689
+
+
+Epoch 3 Train -- Loss: 0.4292 Acc: 0.3588
+Prev Val Results -- Loss: 0.4217 Acc: 0.3689
+0.002974759456083942
+Val Results -- Loss: 0.4187 Acc: 0.3688
+
+
+Epoch 4 Train -- Loss: 0.4292 Acc: 0.3608
+Prev Val Results -- Loss: 0.4187 Acc: 0.3688
+0.004168449238435401
+Val Results -- Loss: 0.4146 Acc: 0.3699
+
+
+Epoch 5 Train -- Loss: 0.4278 Acc: 0.3643
+Prev Val Results -- Loss: 0.4146 Acc: 0.3699
+0.0069242695773971685
+Val Results -- Loss: 0.4215 Acc: 0.3715
+
+
+Epoch 6 Train -- Loss: 0.4240 Acc: 0.3613
+Prev Val Results -- Loss: 0.4215 Acc: 0.3715
+0.003097905029059822
+Val Results -- Loss: 0.4246 Acc: 0.3643
+
+
+Model:  7
+Epoch 1 Train -- Loss: 0.2172 Acc: 0.1294
+Val Results -- Loss: 0.4246 Acc: 0.3676
+
+
+Epoch 2 Train -- Loss: 0.4210 Acc: 0.3656
+Prev Val Results -- Loss: 0.4246 Acc: 0.3676
+0.005133056069771824
+Val Results -- Loss: 0.4298 Acc: 0.3584
+
+
+Epoch 3 Train -- Loss: 0.4207 Acc: 0.3693
+Prev Val Results -- Loss: 0.4298 Acc: 0.3584
+0.002974934612063884
+Val Results -- Loss: 0.4268 Acc: 0.3696
+
+
+Epoch 4 Train -- Loss: 0.4280 Acc: 0.3600
+Prev Val Results -- Loss: 0.4268 Acc: 0.3696
+0.0022214139073351014
+Val Results -- Loss: 0.4290 Acc: 0.3727
+
+
+Epoch 5 Train -- Loss: 0.4279 Acc: 0.3601
+Prev Val Results -- Loss: 0.4290 Acc: 0.3727
+0.007789126076969521
+Val Results -- Loss: 0.4212 Acc: 0.3779
+
+
+Epoch 6 Train -- Loss: 0.4164 Acc: 0.3700
+Prev Val Results -- Loss: 0.4212 Acc: 0.3779
+0.008332376672924968
+Val Results -- Loss: 0.4296 Acc: 0.3635
+
+
+Epoch 7 Train -- Loss: 0.4217 Acc: 0.3679
+Prev Val Results -- Loss: 0.4296 Acc: 0.3635
+0.00015753511379695828
+Val Results -- Loss: 0.4297 Acc: 0.3644
+
+
+Model:  8
+Epoch 1 Train -- Loss: 0.2168 Acc: 0.1313
+Val Results -- Loss: 0.4118 Acc: 0.3720
+
+
+Epoch 2 Train -- Loss: 0.4249 Acc: 0.3652
+Prev Val Results -- Loss: 0.4118 Acc: 0.3720
+0.008838543920925035
+Val Results -- Loss: 0.4206 Acc: 0.3692
+
+
+Epoch 3 Train -- Loss: 0.4197 Acc: 0.3680
+Prev Val Results -- Loss: 0.4206 Acc: 0.3692
+0.007680142938914225
+Val Results -- Loss: 0.4129 Acc: 0.3687
+
+
+Epoch 4 Train -- Loss: 0.4282 Acc: 0.3716
+Prev Val Results -- Loss: 0.4129 Acc: 0.3687
+0.003437814748860901
+Val Results -- Loss: 0.4164 Acc: 0.3765
+
+
+Epoch 5 Train -- Loss: 0.4234 Acc: 0.3648
+Prev Val Results -- Loss: 0.4164 Acc: 0.3765
+0.007955285199743312
+Val Results -- Loss: 0.4084 Acc: 0.3828
+
+
+Epoch 6 Train -- Loss: 0.4163 Acc: 0.3712
+Prev Val Results -- Loss: 0.4084 Acc: 0.3828
+0.00951212852992872
+Val Results -- Loss: 0.4179 Acc: 0.3632
+
+
+Epoch 7 Train -- Loss: 0.4274 Acc: 0.3608
+Prev Val Results -- Loss: 0.4179 Acc: 0.3632
+0.0006726578576381481
+Val Results -- Loss: 0.4186 Acc: 0.3764
+
+
+Model:  9
+Epoch 1 Train -- Loss: 0.2168 Acc: 0.1293
+Val Results -- Loss: 0.4196 Acc: 0.3676
+
+
+Epoch 2 Train -- Loss: 0.4252 Acc: 0.3733
+Prev Val Results -- Loss: 0.4196 Acc: 0.3676
+0.004393659408645834
+Val Results -- Loss: 0.4240 Acc: 0.3713
+
+
+Epoch 3 Train -- Loss: 0.4269 Acc: 0.3625
+Prev Val Results -- Loss: 0.4240 Acc: 0.3713
+0.0029857143236842743
+Val Results -- Loss: 0.4270 Acc: 0.3665
+
+
+Epoch 4 Train -- Loss: 0.4211 Acc: 0.3685
+Prev Val Results -- Loss: 0.4270 Acc: 0.3665
+0.015491594667471964
+Val Results -- Loss: 0.4115 Acc: 0.3715
+
+
+Epoch 5 Train -- Loss: 0.4258 Acc: 0.3561
+Prev Val Results -- Loss: 0.4115 Acc: 0.3715
+0.019612005235984553
+Val Results -- Loss: 0.4311 Acc: 0.3621
+
+
+Epoch 6 Train -- Loss: 0.4283 Acc: 0.3547
+Prev Val Results -- Loss: 0.4311 Acc: 0.3621
+0.013712390104955341
+Val Results -- Loss: 0.4174 Acc: 0.3699
+
+
+Epoch 7 Train -- Loss: 0.4273 Acc: 0.3631
+Prev Val Results -- Loss: 0.4174 Acc: 0.3699
+0.0117751777628064
+Val Results -- Loss: 0.4291 Acc: 0.3552
+
+
+Epoch 8 Train -- Loss: 0.4256 Acc: 0.3723
+Prev Val Results -- Loss: 0.4291 Acc: 0.3552
+0.007980808283921614
+Val Results -- Loss: 0.4212 Acc: 0.3749
+
+
+Epoch 9 Train -- Loss: 0.4324 Acc: 0.3529
+Prev Val Results -- Loss: 0.4212 Acc: 0.3749
+0.004476069748155509
+Val Results -- Loss: 0.4167 Acc: 0.3728
+
+
+Model:  10
+Epoch 1 Train -- Loss: 0.2167 Acc: 0.1309
+Val Results -- Loss: 0.4213 Acc: 0.3748
+
+
+Epoch 2 Train -- Loss: 0.4170 Acc: 0.3775
+Prev Val Results -- Loss: 0.4213 Acc: 0.3748
+0.004990208222812209
+Val Results -- Loss: 0.4163 Acc: 0.3740
+
+
+Epoch 3 Train -- Loss: 0.4239 Acc: 0.3625
+Prev Val Results -- Loss: 0.4163 Acc: 0.3740
+0.00428721574160662
+Val Results -- Loss: 0.4120 Acc: 0.3753
+
+
+Epoch 4 Train -- Loss: 0.4235 Acc: 0.3616
+Prev Val Results -- Loss: 0.4120 Acc: 0.3753
+0.011754528171106504
+Val Results -- Loss: 0.4238 Acc: 0.3689
+
+
+Epoch 5 Train -- Loss: 0.4246 Acc: 0.3680
+Prev Val Results -- Loss: 0.4238 Acc: 0.3689
+0.006739284336900464
+Val Results -- Loss: 0.4171 Acc: 0.3687
+
+
+Epoch 6 Train -- Loss: 0.4336 Acc: 0.3615
+Prev Val Results -- Loss: 0.4171 Acc: 0.3687
+0.007351037149291584
+Val Results -- Loss: 0.4244 Acc: 0.3584
+
+
+Epoch 7 Train -- Loss: 0.4200 Acc: 0.3667
+Prev Val Results -- Loss: 0.4244 Acc: 0.3584
+0.006870071015747048
+Val Results -- Loss: 0.4175 Acc: 0.3731
+
+
+Epoch 8 Train -- Loss: 0.4262 Acc: 0.3607
+Prev Val Results -- Loss: 0.4175 Acc: 0.3731
+0.010969061661466162
+Val Results -- Loss: 0.4285 Acc: 0.3672
+
+
+Epoch 9 Train -- Loss: 0.4335 Acc: 0.3611
+Prev Val Results -- Loss: 0.4285 Acc: 0.3672
+0.012104757813722278
+Val Results -- Loss: 0.4164 Acc: 0.3709
+
+
+Epoch 10 Train -- Loss: 0.4186 Acc: 0.3721
+Prev Val Results -- Loss: 0.4164 Acc: 0.3709
+0.0008501648794267957
+Val Results -- Loss: 0.4173 Acc: 0.3711
+
+
+<class 'numpy.ndarray'>
+<class 'list'>
+['Consolidation', 'Pleural Effusion', 'Pneumothorax']
+Best Model:  1
+Test results -- Loss: 0.4569 Acc: 0.3527
+precision: [0.31733595 0.31908549 0.31963001]
+recall: [0.324 0.321 0.311]
+fscore: [0.32063335 0.32003988 0.31525596]
+support: [1000 1000 1000]
+Consolidation :  0.49772299999999997
+Pleural Effusion :  0.48820424999999995
+Pneumothorax :  0.49803299999999995
+
+
+Best Model:  2
+Test results -- Loss: 0.4514 Acc: 0.3357
+precision: [0.31992337 0.31217482 0.33065327]
+recall: [0.334 0.3   0.329]
+fscore: [0.32681018 0.30596634 0.32982456]
+support: [1000 1000 1000]
+Consolidation :  0.48660424999999996
+Pleural Effusion :  0.48097350000000005
+Pneumothorax :  0.49627575
+
+
+Best Model:  3
+Test results -- Loss: 0.4547 Acc: 0.3330
+precision: [0.326742   0.32700422 0.33333333]
+recall: [0.347 0.31  0.33 ]
+fscore: [0.33656644 0.31827515 0.33165829]
+support: [1000 1000 1000]
+Consolidation :  0.5151632500000001
+Pleural Effusion :  0.49355725
+Pneumothorax :  0.498352
+
+
+Best Model:  4
+Test results -- Loss: 0.4480 Acc: 0.3527
+precision: [0.33808554 0.31414634 0.32930514]
+recall: [0.332 0.322 0.327]
+fscore: [0.33501514 0.31802469 0.32814852]
+support: [1000 1000 1000]
+Consolidation :  0.49800749999999994
+Pleural Effusion :  0.47930874999999995
+Pneumothorax :  0.49242775
+
+
+Best Model:  5
+Test results -- Loss: 0.4566 Acc: 0.3543
+precision: [0.33779904 0.30175077 0.32113821]
+recall: [0.353 0.293 0.316]
+fscore: [0.34523227 0.29731101 0.31854839]
+support: [1000 1000 1000]
+Consolidation :  0.509367
+Pleural Effusion :  0.477409
+Pneumothorax :  0.50060475
+
+
+Best Model:  6
+Test results -- Loss: 0.4456 Acc: 0.3467
+precision: [0.33624031 0.32696391 0.35477583]
+recall: [0.347 0.308 0.364]
+fscore: [0.34153543 0.31719876 0.35932873]
+support: [1000 1000 1000]
+Consolidation :  0.5006705
+Pleural Effusion :  0.4901905
+Pneumothorax :  0.50813625
+
+
+Best Model:  7
+Test results -- Loss: 0.4437 Acc: 0.3447
+precision: [0.33080569 0.29571578 0.32591093]
+recall: [0.349 0.283 0.322]
+fscore: [0.33965937 0.28921819 0.32394366]
+support: [1000 1000 1000]
+Consolidation :  0.50298425
+Pleural Effusion :  0.46990599999999993
+Pneumothorax :  0.49590475
+
+
+Best Model:  8
+Test results -- Loss: 0.4622 Acc: 0.3650
+precision: [0.30821918 0.28886555 0.30409357]
+recall: [0.315 0.275 0.312]
+fscore: [0.3115727  0.2817623  0.30799605]
+support: [1000 1000 1000]
+Consolidation :  0.479134
+Pleural Effusion :  0.46864624999999993
+Pneumothorax :  0.46873525000000005
+
+
+Best Model:  9
+Test results -- Loss: 0.4634 Acc: 0.3607
+precision: [0.31256281 0.30525273 0.31626506]
+recall: [0.311 0.308 0.315]
+fscore: [0.31177945 0.30662021 0.31563126]
+support: [1000 1000 1000]
+Consolidation :  0.4904995
+Pleural Effusion :  0.4777152499999999
+Pneumothorax :  0.4885405
+
+
+Best Model:  10
+Test results -- Loss: 0.4348 Acc: 0.3507
+precision: [0.34258373 0.31714876 0.34447822]
+recall: [0.358 0.307 0.34 ]
+fscore: [0.35012225 0.31199187 0.34222446]
+support: [1000 1000 1000]
+Consolidation :  0.50707425
+Pleural Effusion :  0.48043824999999996
+Pneumothorax :  0.50440325
+
+
+Mean AUROC of  Consolidation :  0.5 
+ Std AUROC of  Consolidation : 0.01
+Mean AUROC of  Pleural Effusion :  0.48 
+ Std AUROC of  Pleural Effusion : 0.01
+Mean AUROC of  Pneumothorax :  0.5 
+ Std AUROC of  Pneumothorax : 0.01
