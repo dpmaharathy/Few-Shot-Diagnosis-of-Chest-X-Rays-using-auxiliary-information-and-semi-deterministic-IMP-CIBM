@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Cardiomegaly,0.28,0.01,0.28,0.01,0.28,0.01,0.44,0.01
+Edema,0.26,0.01,0.26,0.01,0.26,0.01,0.42,0.01
+Emphysema,0.35,0.01,0.35,0.01,0.35,0.01,0.52,0.01

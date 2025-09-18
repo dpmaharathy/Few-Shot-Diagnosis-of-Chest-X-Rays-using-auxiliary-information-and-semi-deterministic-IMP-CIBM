@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+No Finding,0.3519,0.0149,0.3424,0.0188,0.347,0.0162,0.5192,0.011
+Pleural_Thickening,0.3522,0.0108,0.3661,0.0199,0.3589,0.0142,0.5236,0.0112
+Pneumothorax,0.3717,0.0076,0.3672,0.0125,0.3693,0.0079,0.5435,0.0079

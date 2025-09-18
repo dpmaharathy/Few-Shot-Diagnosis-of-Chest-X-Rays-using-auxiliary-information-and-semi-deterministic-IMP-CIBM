@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Atelectasis,0.28,0.01,0.33,0.02,0.3,0.01,0.42,0.01
+Hernia,0.25,0.01,0.25,0.01,0.25,0.01,0.41,0.01
+Pneumonia,0.39,0.01,0.33,0.01,0.36,0.01,0.56,0.01

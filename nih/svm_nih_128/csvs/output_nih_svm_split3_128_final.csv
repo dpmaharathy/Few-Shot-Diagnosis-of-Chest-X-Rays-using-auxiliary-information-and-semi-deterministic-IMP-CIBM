@@ -1,0 +1,4 @@
+,mean_pre,std_pre,mean_re,std_re,mean_f1,std_f1,mean_auroc,std_auroc
+Consolidation,0.36,0.02,0.29,0.02,0.32,0.02,0.48,0.02
+Fibrosis,0.12,0.01,0.11,0.01,0.12,0.01,0.65,0.01
+Infiltration,0.32,0.0,0.41,0.01,0.36,0.01,0.51,0.01
